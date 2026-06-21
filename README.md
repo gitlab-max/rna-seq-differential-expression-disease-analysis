@@ -18,6 +18,7 @@ KEGG pathway enrichment (optional)
 Publication-ready figures
 
 #Time: 1-3 days
+
 #Price:$150-300
 
 # RNA-seq Analysis of Schizophrenia Neurons (GSE107638)
